@@ -1,35 +1,26 @@
-# 🧠 Yojna Seva – Smart Scheme Recommender for Individuals with Disabilities
+# Yojna Seva  
 
-Yojna Seva is a full-stack web application powered by machine learning that helps individuals with disabilities discover relevant government schemes tailored to their needs. It combines secure user authentication, intuitive UI, and ML-based recommendations.
+### A Machine Learning-Based Government Scheme Recommender  
 
-## 🚀 Features
+## Overview  
+Yojna Seva is a machine learning project designed to help individuals with disabilities find government schemes that best suit their needs. Users can input their disability and background details, and the system will recommend the most relevant schemes.
 
-- 🎯 Personalized scheme recommendations using ML (Random Forest, Gradient Boosting)
-- 🔐 Secure JWT-based login and role-based dashboards
-- 📝 Form-based inputs to collect user data
-- 📊 Admin panel to manage users and schemes
-- 📄 Application tracking with scheme details
+## Features  
+- **Scheme Recommendation:** Suggests schemes based on user-provided details.  
+- **Machine Learning Model:** Uses structured datasets and trained models to make accurate recommendations.  
+- **User-Friendly Interface:** Simple form-based input for accessibility.  
+- **Comprehensive Dataset:** Covers scheme details such as eligibility, aid provided, income limits, and more.  
 
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React.js, CSS3
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Machine Learning:** Python, Pandas, NumPy, scikit-learn
-- **Security:** JWT, bcrypt
-
----
-
-## 🤖 Machine Learning
-
-Trained ML models predict eligible schemes based on user inputs using:
-
-- ✅ Random Forest Classifier
-- ✅ Gradient Boosting Classifier
-
----
+## Technologies Used  
+- **Python** (for ML model & backend)  
+- **Express.js** (for API & web framework)  
+- **Pandas & NumPy** (for data processing)  
+- **React** (for frontend UI)  
+- **MongoDB** (for database storage)  
 
 
-
+## Setup & Installation  
+1. **Clone the repository:**  
+   ```sh
+   git clone https://github.com/aartiparulkar/YojnaSeva.git
+   cd yojna-seva
