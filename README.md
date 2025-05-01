@@ -19,8 +19,3 @@ Yojna Seva is a machine learning project designed to help individuals with disab
 - **MongoDB** (for database storage)  
 
 
-## Setup & Installation  
-1. **Clone the repository:**  
-   ```sh
-   git clone https://github.com/aartiparulkar/YojnaSeva.git
-   cd yojna-seva
